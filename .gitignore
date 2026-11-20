@@ -1,0 +1,5 @@
+__pycache__/
+.pytest_cache/
+.venv/
+data/ola_rides.db
+.streamlit/secrets.toml
